@@ -1,0 +1,1 @@
+python main.py --max-seqlen 320 --lr 0.00005 --k 7 --dataset-name Thumos14reduced  --num-class 20 --use-model CO2  --max-iter 7001  --dataset SampleDataset --weight_decay 0.001 --model-name CO2_3552 --seed 3552
