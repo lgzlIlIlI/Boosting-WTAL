@@ -1,5 +1,5 @@
 # Boosting Weakly supervised Temporal Action Localization via Text Information (CVPR2023)
-This is the code of our CVPR2023 paper "Boosting Weakly supervised Temporal Action Localization via Text Information"  [paper] (https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Boosting_Weakly-Supervised_Temporal_Action_Localization_With_Text_Information_CVPR_2023_paper.pdf)
+This is the code of our CVPR2023 paper "Boosting Weakly supervised Temporal Action Localization via Text Information"  [paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Boosting_Weakly-Supervised_Temporal_Action_Localization_With_Text_Information_CVPR_2023_paper.pdf)
 Guozhang Li,De Cheng,Xinpeng Ding, Nannan Wang, Xiaoyu Wang, Xinbo Gao.
 
 # Abstract
